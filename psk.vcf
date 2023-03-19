@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Paul Kilroy
+N:Kilroy;Paul;;;
+NICKNAME:Paul Kilroy
+EMAIL;TYPE=INTERNET;TYPE=WORK:paul.kilroy@oldnational.com
+EMAIL;TYPE=INTERNET;TYPE=HOME:paul.kilroy@gmail.com
+TEL;TYPE=CELL:(302) 290-9758
+TEL;TYPE=WORK:(812) 464-1220
+ADR;TYPE=WORK:;;101 NW Fourth St;Evansville;IN;47708;US;101 NW Fourth St\nE
+ vansville\, IN 47708\nUS
+ADR;TYPE=HOME:;;10910 Hawk Ridge Rd;Evansville;IN;47725;US;10910 Hawk Ridge
+  Rd\nEvansville\, IN 47725\nUS
+item1.ORG:Old National Bank
+item1.X-ABLabel:
+item2.TITLE:Chief Information Officer
+item2.X-ABLabel:
+item3.URL:https\://www.linkedin.com/in/paulkilroy/
+item3.X-ABLabel:LinkedIn
+PHOTO:https://lh3.googleusercontent.com/contacts/ANvYiodEislomQz4AKzF1td7VU
+ u28mFnqtT71qeM_x8Alm1rY7qpdhdb
+CATEGORIES:Imported 10/29/11,family,myContacts
+END:VCARD
